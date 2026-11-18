@@ -1,35 +1,40 @@
-Registration Form
-About the Project
+# GitHub Practical Test
 
-This is a simple Registration Form project created using HTML, CSS, and JavaScript.
+## Student Details
 
-Technologies Used
-HTML
-CSS
-JavaScript
-Features
-User registration form
-Full Name input field
-Email input field
-Password field
-Confirm Password field
-Form validation
-Password matching validation
-Success message after registration
-Project Structure
-text
-Registration-Form/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+| Field | Details |
+|---|---|
+| Full Name | Sakshi Rani |
+| URN Number | E25B032472 |
+| Semester | 3rd Semester |
+| Section | B|
+| Subject | Git and GitHub |
 
-How to Run
-Download or clone this repository.
-Open the project folder in VS Code.
-Open index.html in your browser.
-Fill in the registration form and click Register.
-Author
+## Project Description
 
-Created as a beginner web development project.
+This repository contains my personal portfolio website created as part of the Git and GitHub Practical Test.
+
+## Project Files
+- `index.html` – Webpage structure
+- `style.css` – Styling and layout
+- `script.js` – JavaScript functionality
+
+## Project Description
+
+This repository contains my personal portfolio website and Registration Form project, created using HTML, CSS and JavaScript as part of my learning journey.
+
+## Projects
+1. **Personal Portfolio Website** – A webpage showcasing my introduction, skills and projects.
+2. **Registration Form** – A form created using HTML, CSS and JavaScript to collect user information.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## GitHub Practical Work
+- Created a GitHub repository.
+- Made at least 3 meaningful commits.
+- Created `feature-navbar` and `feature-footer` branches.
+- Merged both branches into the main branch.
+
